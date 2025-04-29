@@ -1,1 +1,1 @@
-# auxiliar.relatorios
+Fiz um app com ajuda do gpt para realizar o seguinte : identifica onde esta o saldo total de um arquivo do excel (estoque), sendo possivel utilizar ate 5 arquivos. No final ele cria um excel com o relatorio final com somente aqueles produtos que estao acabando ( menos de 10), para funcionar a todos provavelmente sera necessario atualizar o codigo.
